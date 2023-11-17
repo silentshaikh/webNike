@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/webNike/static/css/main.c1ca9d2c.css",
+    "main.js": "/webNike/static/js/main.ff022865.js",
+    "static/js/787.c02981ee.chunk.js": "/webNike/static/js/787.c02981ee.chunk.js",
+    "static/media/offer.svg": "/webNike/static/media/offer.b6c7ebe6f4028bb41336814b76e0a594.svg",
+    "static/media/big-shoe2.png": "/webNike/static/media/big-shoe2.7e426862e4425389e36f.png",
+    "static/media/big-shoe1.png": "/webNike/static/media/big-shoe1.245a575d35e402042ac2.png",
+    "static/media/shoe8.svg": "/webNike/static/media/shoe8.7f113bc71294ef10fd2359e779b8d0b5.svg",
+    "static/media/thumbnail-shoe2.svg": "/webNike/static/media/thumbnail-shoe2.0e97531b94537f2b4d35350b54cf08e0.svg",
+    "static/media/thumbnail-shoe1.svg": "/webNike/static/media/thumbnail-shoe1.9f4bfcd24ee3b9698e482ff79c382e13.svg",
+    "static/media/big-shoe3.png": "/webNike/static/media/big-shoe3.1d723d845874f2c6f410.png",
+    "static/media/shoe7.svg": "/webNike/static/media/shoe7.54bea3246c838de057299689cb49f955.svg",
+    "static/media/thumbnail-shoe3.svg": "/webNike/static/media/thumbnail-shoe3.d06ba474b8f15158f36b001f0d81e01c.svg",
+    "static/media/shoe5.svg": "/webNike/static/media/shoe5.7eff231634283d148619099d317fcbfc.svg",
+    "static/media/shoe6.svg": "/webNike/static/media/shoe6.a86f7e6b12d633cd022f16558b492627.svg",
+    "static/media/shoe4.svg": "/webNike/static/media/shoe4.3abdf15d797d9f806123096122aa5ae7.svg",
+    "static/media/logo.svg": "/webNike/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/footer-logo.svg": "/webNike/static/media/footer-logo.3d9b92188847280769f448c62dbaa75c.svg",
+    "static/media/header-logo.svg": "/webNike/static/media/header-logo.9c1592e4c453ef606f10873bbd7d8e52.svg",
+    "static/media/instagram.svg": "/webNike/static/media/instagram.404464f2c97fb7b9c059cbb20c77d954.svg",
+    "static/media/twitter.svg": "/webNike/static/media/twitter.14511ce21d4a740c39d86f3a18959719.svg",
+    "static/media/hamburger.svg": "/webNike/static/media/hamburger.f0d5222e94a3d8c7aee208a1a9467030.svg",
+    "static/media/star.svg": "/webNike/static/media/star.13fa3a93d5ff97f04e0ef43ba625fa1e.svg",
+    "static/media/facebook.svg": "/webNike/static/media/facebook.be08ffcfacec5284de4d31930c5ad9e8.svg",
+    "static/media/arrow-right.svg": "/webNike/static/media/arrow-right.4ac40fd0a02c21159b69d9d81bbedd4e.svg",
+    "index.html": "/webNike/index.html",
+    "main.c1ca9d2c.css.map": "/webNike/static/css/main.c1ca9d2c.css.map",
+    "main.ff022865.js.map": "/webNike/static/js/main.ff022865.js.map",
+    "787.c02981ee.chunk.js.map": "/webNike/static/js/787.c02981ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ca9d2c.css",
+    "static/js/main.ff022865.js"
+  ]
+}
